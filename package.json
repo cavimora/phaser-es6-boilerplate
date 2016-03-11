@@ -1,7 +1,7 @@
 {
-  "name": "the-last-standing-one",
-  "version": "1.0.0",
-  "description": "Phaser game",
+  "name": "phaser-es6-boilerplate",
+  "version": "0.1.0",
+  "description": "Phaser ES6 Boilerplate",
   "main": "src/index.js",
   "scripts": {
     "start": "gulp",
@@ -9,9 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jpgcode/the-last-standing-one"
+    "url": "https://github.com/cavimora/phaser-es6-boilerplate",
+    "based-on": "https://github.com/jpgcode/the-last-standing-one/"
   },
-  "author": "Jose Pablo Granados",
+  "author": "Carlos Mora Aguilar",
   "license": "MIT",
   "devDependencies": {
     "babelify": "^6.1.3",
